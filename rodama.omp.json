@@ -61,8 +61,7 @@
           "properties": {
             "branch_max_length": 25,
             "fetch_status": true,
-            "fetch_upstream_icon": true,
-            "github_icon": "\uf7a3"
+            "fetch_upstream_icon": true
           }
         },
         {
