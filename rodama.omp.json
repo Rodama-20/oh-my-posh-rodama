@@ -35,7 +35,7 @@
           "powerline_symbol": "\ue0b0",
           "foreground": "p:white",
           "background": "p:orange",
-          "template": " \uf024b {{ path .Path .Location }} ",
+          "template": " \uf07b {{ path .Path .Location }} ",
           "properties": {
             "style": "folder"
           }
