@@ -27,7 +27,7 @@
           "background": "p:yellow",
           "leading_diamond": "<transparent,background>\ue0b0</>",
           "trailing_diamond": "\ue0b0",
-          "template": " {{ if .SSHSession }}\uf817 {{ .HostName}} {{ end }}{{ .UserName }} "
+          "template": " {{ if .SSHSession }}\udb80\udf18 {{ .HostName}} {{ end }}{{ .UserName }} "
         },
         {
           "type": "path",
